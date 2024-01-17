@@ -75,6 +75,5 @@ This code essentially performs the following tasks: loading data, preparing the 
 
 
 ### Things to improve:
-1. I am not sure whether the training method works fully as after I built the model and saved it, I made some changes to the method.
-2. I wish the training would be faster and more optimized.
+1. I wish the training would be faster and more optimized.
 
